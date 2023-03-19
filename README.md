@@ -1,25 +1,8 @@
 
 
-![l-intro-1634416696](https://user-images.githubusercontent.com/90208101/226206323-360d8e09-b58e-438d-a31b-989695e8cebf.jpg)
 
 
-## İçerikler
-
-- [Websiteler](#websites)
-- [Gamified Eğitimleri](#gamified-tutorials)
-- [Youtube Kanalları](#youtube-channels)
-- [Bedava Kurslar](#free-online-courses)
-- [Github Repositories](#github-repositories)
-- [Eğitici Dokümanlar](#tutorial-docs)
-- [Development Tools](#development-tools)
-- [Node Providers](#node-providers)
-- [Project Starter](#project-starter)
-- [Articles](#articles)
-- [Öneri Kitaplar](#recommended-books)
-
----
-
-## Websites
+## Websiteler
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
@@ -89,7 +72,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Youtube Channels
+## Youtube Kanalları
 
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
@@ -139,74 +122,74 @@
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
-| [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
-| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
-| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
+| [Solidity, Blockchain ve Akıllı Sözleşme Kursu – Başlangıçtan Uzmanlığa Python Eğitimi](https://www.youtube.com/watch?v=M576WGiDBdQ) 
+| [Modern Bir Web 3.0 Blok Zinciri Uygulaması Oluşturun ve Dağıtın](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+| [JavaScript ile Blockchain, Solidity ve Full Stack Web3 Geliştirmeyi Öğrenin](https://youtu.be/gyMwXuJrbJQ)                         
+| [Blockchain Teorisi 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
-| [Blockchain and Deep Learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
-| [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
+| [Blockchain ve Yapay Zekanın Derin Öğrenimi](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
+| [Blockchain Teknolojisini Anlamak](https://www.udemy.com/course/understanding-blockchain-technology/)
 | [Ethereum](https://www.ludu.co/course/ethereum)
-| [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
-| [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
+| [Blockchain Teknolojisi ve Uygulamaları](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
+| [Blockchain Teknolojisinin Temelleri](https://witscad.com/course/blockchain-technology-fundamentals)
 | [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
-| [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
+| [Blockchain Demo - karma, blok, dağıtılmış defter, belirteç, genel/özel anahtar çiftleri ve imzalamanın web tabanlı gösterimi](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Github Repositories
+## Github Depoları
 - [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 - [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-- [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers)
+- [Yazılım mühendisleri için Blockchain](https://github.com/benstew/blockchain-for-software-engineers)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
-- [Awesome solidity](https://github.com/bkrem/awesome-solidity)
-- [Awesome ethereum security](https://github.com/crytic/awesome-ethereum-security)
-- [Awesome blockchain](https://github.com/yjjnls/awesome-blockchain)
-- [Blockchain learning path](https://github.com/protofire/blockchain-learning-path)
-- [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
+- [solidity](https://github.com/bkrem/awesome-solidity)
+- [ethereum security](https://github.com/crytic/awesome-ethereum-security)
+- [blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Blockchain öğrenme yolları](https://github.com/protofire/blockchain-learning-path)
+- [solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Solidity 101](https://github.com/l-henri/solidity-101)
 - [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
-- [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
-- [Learning solidity](https://github.com/pbrudny/learning-solidity-2018)
-- [Solidity notes](https://github.com/0xpranay/solidity-notes)
-- [Learn solidity with examples](https://github.com/James-Sangalli/learn-solidity-with-examples)
+- [Smart contract kaynakları](https://github.com/ErichDylus/Smart-Contract-Resources)
+- [Solidity Öğrenimi](https://github.com/pbrudny/learning-solidity-2018)
+- [Solidity Notları](https://github.com/0xpranay/solidity-notes)
+- [Örneklerle Solidity](https://github.com/James-Sangalli/learn-solidity-with-examples)
 - [Solidity patterns](https://github.com/fravoll/solidity-patterns)
-- [Solidity by examples](https://github.com/raineorshine/solidity-by-example)
-- [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide)
+- [Örneklerle Solidity](https://github.com/raineorshine/solidity-by-example)
+- [Blockchain development kılavuzu](https://github.com/dcbuild3r/blockchain-development-guide)
 - [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
-- [Awesome list rpc nodes providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
-- [Journey to become a blockchain engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer)
+- [rpc nodes providers listesi](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
+- [Blockchain mühendisi olma yolculuğu](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer)
 - [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-- [Web2 to web3 resources](https://github.com/decentology/web2-to-web3-resources)
+- [Web2 to web3 eğitimi](https://github.com/decentology/web2-to-web3-resources)
 - [Blockchain tutorial](https://github.com/nosequeldeebee/blockchain-tutorial)
-- [Awesome blockchains](https://github.com/openblockchains/awesome-blockchains)
-- [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
-- [Awesome ZK](https://github.com/ventali/awesome-zk)
-- [Awesome ZkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
-- [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
-- [Building secure contracts](https://github.com/crytic/building-secure-contracts)
-- [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [blockchains](https://github.com/openblockchains/awesome-blockchains)
+- [zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [ZK](https://github.com/ventali/awesome-zk)
+- [ZkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
+- [cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Güvenli sözleşmeler oluşturma](https://github.com/crytic/building-secure-contracts)
+- [Ultimate DeFi araştırma üssü](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Solidity security](https://github.com/Rari-Capital/solcurity)
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog)
 - [Web3 security library](https://github.com/immunefi-team/Web3-Security-Library)
 - [Solidity school](https://github.com/Aniket-Engg/solidity-school)
 - [Crypto List](https://github.com/coinpride/CryptoList)
 - [Solidity trivias](https://github.com/ajsantander/trivias)
-- [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
-- [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
+- [Geliştiriciler için pratik kriptografi kitabı](https://github.com/nakov/practical-cryptography-for-developers-book)
+- [openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 - [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-- [The Crowdsourced Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
+- [Kitle Kaynaklı Kapsamlı Ethereum Okuma Listes](https://github.com/Scanate/EthList)
 - [Eat the blocks](https://github.com/jklepatch/eattheblocks)
 - [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
 - [EVM Opcodes](https://github.com/crytic/evm-opcodes)
 - [Typechain](https://github.com/dethcrypto/TypeChain)
-- [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
-- [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
-- [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
+- [blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [rust](https://github.com/rust-unofficial/awesome-rust)
+- [aeternity](https://github.com/aeternity/awesome-aeternity)
 - [Metaschool learning projects](https://github.com/0xmetaschool/Learning-Projects)
 - [Solana course](https://github.com/Unboxed-Software/solana-course)
 
