@@ -202,12 +202,12 @@
 
 | Tutorial                                                                                                        | Description                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Blockchain Development Tutorial](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                 | Getting Started with Blockchain Development by CryptoDev Hub |
-| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts by George Brown College             |
-| [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Getting started with Blockchain by Kauri                     |
-| [Public Good Blockchain Development Guide](https://www.devpill.me/docs)                                         | Blockchain Development Guide by Devpill                      |
+| [Blockchain Development Tutorial](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                 | GCryptoDev Hub'dan Blockchain Geliştirmeye Başlarken |
+| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    |George Brown College'dan Gelişmiş Akıllı Sözleşmeler             |
+| [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Kauri ile blockchaine başlarken                    |
+| [Public Good Blockchain Development Guide](https://www.devpill.me/docs)                                         | Blockchain Geliştiriciliği                      |
 | [Ethereum Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development) | Get started with blockchain development by Microsoft         |
-| [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)            | Smart Contract Tutorial by Alchemy                           |
+| [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)            | Alachemy Akıllı kontratları                            |
 | [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity)                                       | Solidity Tutorial by Learn-x-in-y-minutes                    |
 | [Solidity Docs](https://solidity.readthedocs.io)                                                                | Solidity Tutorial                                            |
 | [OpenZeppelin Docs](https://ethernaut.openzeppelin.com/)                                                        | OpenZeppelin Tutorials by Ethernaut                          |
