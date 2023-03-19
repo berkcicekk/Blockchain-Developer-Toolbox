@@ -56,7 +56,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Gamified Tutorials
+## Gamified 
 
 |                                                                              |
 | ---------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Free Online Courses
+## Bedava Kurslar 🐲
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -198,7 +198,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Tutorial Docs
+## Öğretici Dokümanlar
 
 | Tutorial                                                                                                        | Description                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -226,7 +226,7 @@
 
 ## Development Tools
 
-> ETHEREUM & EVM ecosystem
+> ETHEREUM & EVM ekosistemi
 
 | Tool                                                                  | Description                                                                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -294,7 +294,7 @@
 </div>
 
 
-## Project Starter
+## Başlangıç Projeleri
 
 - [Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth)
 - [Create-eth-app](https://github.com/paulrberg/create-eth-app)
@@ -326,82 +326,10 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Articles
+## Proje Siteleri
 
 - [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
-- [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
-- [The meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-- [Getting started as an ethereum web developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
-- [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
-- [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
-- [An introduction to bitcoin and cryptocurrency](https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06)
-- [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
-- [How to create an erc20 token and a solidity vendor contract](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m)
-- [Building on ethereum mainnet](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
-- [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
-- [Ethereum for web-developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
-- [How to deploy your first smart contract on ethereum with solidity and hardhat](https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e)
-- [Create a solana dapp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
-- [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
-- [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
-- [How does Ethereum work anyway](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
-- [Solidity tutorial](https://blockonomi.com/solidity-tutorial/)
-- [Solidity 101](https://secureum.substack.com/p/solidity-101)
-- [How to create an erc-20 token on polygon](https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/)
-- [How to get into ethereum crypto web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
-- [Building scalable full stack apps on ethereum with polygon](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
-- [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
-- [Build defi yield farming application with chainlink](https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/)
-- [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
-- [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
-- [Web 3.0 and the evolution of the internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
-- [Nft deployment cost](https://blog.alchemy.com/blog/nft-deployment-cost)
-- [How to code your own cryptokitties style game on ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3)
-- [How to create run your own dao](https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962)
-- [The ultimate ENS and dApp tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
-- [How Can A Newbie Start Learning About Blockchain?](https://www.blockchain-council.org/blockchain/how-can-a-newbie-start-learning-about-blockchain/)
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
-## Recommended Books
-
-- [Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
-
-- [Ethereum Yellow Paper: A Secure Decentralized Generalised Transaction Ledger - Dr. Gavin Wood](https://ethereum.github.io/yellowpaper/paper.pdf)
-
-- [Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood](https://github.com/ethereumbook/ethereumbook)
-
-- Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
-
-- [Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
-
-- The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
-
-- Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas Antonopoulos
-
-- Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song
-
-- Bank 4.0 - Brett King
-
-- Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain - Roberto Infante
-
-- [Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt](https://github.com/lnbook/lnbook)
-
-- Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
-
-- Ethereum Blockchain Developer Guide - Thomas Wiesner
-
-- Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
-
-- The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
-
-- How to DeFi - Darren Lau et al
-
-- The Blockchain Developer: A practical guide - Elad Elrom
-
-- [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
