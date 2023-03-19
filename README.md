@@ -3,19 +3,19 @@
 ![l-intro-1634416696](https://user-images.githubusercontent.com/90208101/226206323-360d8e09-b58e-438d-a31b-989695e8cebf.jpg)
 
 
-## Table of Contents
+## İçerikler
 
-- [Websites](#websites)
-- [Gamified Tutorials](#gamified-tutorials)
-- [Youtube Channels](#youtube-channels)
-- [Free Online Courses](#free-online-courses)
+- [Websiteler](#websites)
+- [Gamified Eğitimleri](#gamified-tutorials)
+- [Youtube Kanalları](#youtube-channels)
+- [Bedava Kurslar](#free-online-courses)
 - [Github Repositories](#github-repositories)
-- [Tutorial Docs](#tutorial-docs)
+- [Eğitici Dokümanlar](#tutorial-docs)
 - [Development Tools](#development-tools)
 - [Node Providers](#node-providers)
 - [Project Starter](#project-starter)
 - [Articles](#articles)
-- [Recommended Books](#recommended-books)
+- [Öneri Kitaplar](#recommended-books)
 
 ---
 
